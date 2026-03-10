@@ -1,0 +1,80 @@
+Paper 1: Predicting Student Dropout in Higher Education (Aulck et al.)
+
+https://arxiv.org/pdf/1606.06364
+
+Problem:
+Student dropout is a major issue in higher education. Around 30% of first-year students do not return for their second year.
+
+Predictors:
+• GPA in math, English, chemistry and psychology courses
+• year of enrollment
+• birth year
+• first term enrollment characteristics
+
+Methods:
+Logistic Regression, Random Forest, k-NN
+
+Results:
+Logistic Regression achieved ~66% accuracy and AUC ≈ 0.73.
+
+Key Insight:
+Early academic performance provides strong signals for predicting student dropout.
+
+-------------
+
+Paper 2: University Dropout Prediction through Educational Data Mining Techniques: A Systematic Review
+
+https://je-lks.org/ojs/index.php/Je-LKS_EN/article/view/1135017/1142
+
+Problem: Student dropout rates in higher education range between 30% and 50% in Europe, making student retention an important challenge for universities.
+
+Definition:
+Dropout is defined as leaving a university program before completing the degree.
+
+Methods:
+Educational Data Mining techniques such as Decision Trees, Neural Networks, Logistic Regression, SVM and k-NN are commonly used.
+
+Key Insight:
+Machine learning techniques are widely used to identify students at risk and support early intervention strategies.
+
+-------------
+
+Paper 3: Early Prediction of Student Success: Mining Students Enrolment Data
+
+https://repository.openpolytechnic.ac.nz/server/api/core/bitstreams/90765bf0-20a8-41e6-80db-0fa0c42da411/content
+
+Problem:
+Predicting student success or failure using enrolment data.
+
+Data:
+Student demographic and enrolment variables such as age, gender, ethnicity, work status, and course program.
+
+Methods:
+Classification tree models (CHAID and CART).
+
+Results:
+The most important predictors were ethnicity, course program, and course block. The models achieved about 60% prediction accuracy.
+
+Key Insight:
+Early enrolment data alone has limited predictive power. Additional academic performance variables could improve prediction accuracy.
+
+-------------
+
+Paper 4: Early Prediction of Student Dropout in Higher Education using Machine Learning Models ( 2024 )
+
+https://files.eric.ed.gov/fulltext/ED675569.pdf
+
+Problem:
+Student dropout in higher education and early identification of at-risk students.
+
+Methods:
+Machine learning models including XGBoost and Neural Networks.
+
+Data:
+Student demographic data, learning management system activity, and academic achievements.
+
+Results:
+Prediction accuracy improves as more academic data becomes available, but early prediction remains important for timely intervention.
+
+Key Insight:
+Early prediction using pre-entry and behavioral data can help universities identify students at risk and provide support.

@@ -1,0 +1,63 @@
+Those are potential datasets that I could use for my Practice Challenge:
+
+1. UCI Student Performance Dataset
+	- Good features, since it has grades from the periods of G1, G2, G3 ( final );
+	- Absences and study time are also nice inclusions;
+	* Dataset is small ( 400 rows ) - risk of overfitting and high variance;
+
+2. xAPI-Edu Dataset
+	- Good features for behavior;
+	* It contains multiple grades + a lot of ethical features, which might make the modal bias;
+	* It does not fit the idea of the proposal ( prediction after first assessment ), since it does not have a period table for any assessment periods;
+
+3. Student Performance and Learning Behavior Dataset
+	- Huge dataset ( 14000 rows );
+	* A lot of repeating data, which may result in linear relationships built in it;
+	* Model performance might become unrealistically high;
+	* Data might be artificially generated;
+
+4. Predict Students' Dropout and Academic Success
+	- Richest dataset so far; 
+	- Includes majority of the features needed for the modal.
+	- Data is from university, not school.
+	* The proposal has to change idea. Instead of prediction of fail/pass after the first period, we need to change it - prediction of failing/graduating after first semester metrics. 
+
+-----
+
+The best overall dataset is the "Predict Students' Dropout and Academic Success", since it is the richest of data and feature selection, but the proposal idea needs to be "Predicting students dropout rate after metrics from 1st semester".
+
+----
+
+Other risks and potential solutions for them:
+1. Data Leakage:
+	- the dataset contains a lot of information, but the main concern is the fact that it contains final outcome metrices ( plus 2nd semester as well ), which is a problem for the training of the model.
+	* In order to battle with this issue, I need to exclude those features and work with the rest of the data ( only metrices regarding semester 1 );
+
+2. Class imbalance:
+	- In the dataset, the ratio between “Graduates” and “Dropouts” is not distributes symmetrically, which may result in the accuracy becoming misleading.
+	* In order to battle this I need to check Class Distribution early or even tune up the data beforehand for proper use;
+
+3. Ethical & Fairness risks:
+	- The dataset contains values like: gender, nationality, parents’ occupation - which may result in different types of bias in the model ( socioeconomic bias, gender bias, cultural bias... );
+	* Discussion regarding the inclusion of those features should be made beforehand to evaluate whether I should use them in this Challenge or not;
+
+4. Overcomplexity:
+	- The dataset is rich in different metrices, which may result in overcomplicating things from the start;
+	* One tactic about this is to start simply ( Initially to use “Admission data” and later to include 1st Semester metrices );
+
+5. Timeframe:
+	- There is a possibility the timeframe for the Practice Challenge might not be enough, since a lot of cleaning and encoding of data has to be made.
+	* This also needs to be communicated if it is realistic to do so
+
+6. Generalizability Risk
+	- The dataset is gotten from a Portuguese university, which may result is poor outcomes on other institutions
+
+----
+
+how can I get the most accurate picture
+research document ( 5 papers )
+small introduction in the notebook ( DU )
+
+---
+
+I went over to discuss my Project Proposal for my Practice Challenge and the things I changed after doing some research about the topic. First, I explained that I found a dataset that meets most of my requirements and addressed some potential risks that might occur during development. My professor advised me to investigate deeper regarding my Domain Understanding ( for example read articles or potential sources about the topic ) and construct a report, which showcases the bit picture about the problem case and what actually is achievable in this semester course. Moreover, it is not a problem to include the key takeaways in the notebook itself when developing. Second, I wanted to know a general overview on how the progress of the training should look like, to which my teacher replied with that it is a continues cycle of trying, validating and going back to research, so it is best to start early and work your way up. I am glad for the received feedback and am looking towards our next meeting!
