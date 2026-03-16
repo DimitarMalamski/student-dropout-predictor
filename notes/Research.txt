@@ -24,7 +24,7 @@ Early academic performance provides strong signals for predicting student dropou
 
 Paper 2: University Dropout Prediction through Educational Data Mining Techniques: A Systematic Review
 
-https://je-lks.org/ojs/index.php/Je-LKS_EN/article/view/1135017/1142
+	
 
 Problem: Student dropout rates in higher education range between 30% and 50% in Europe, making student retention an important challenge for universities.
 
@@ -78,3 +78,25 @@ Prediction accuracy improves as more academic data becomes available, but early 
 
 Key Insight:
 Early prediction using pre-entry and behavioral data can help universities identify students at risk and provide support.
+
+-------------
+
+Paper 5: Educational Data Mining & Students’ Performance Prediction
+
+https://pdfs.semanticscholar.org/b280/216a1d63015afc6a3d1aac9595aeb2b7dd5a.pdf
+
+Problem:
+Educational institutions collect large amounts of student data, but this data is often not fully utilized to understand and predict student academic performance.
+
+Data:
+A dataset of 270 university students collected through a survey containing personal, social, and academic attributes such as gender, family income, parental education, high school percentage, living location, and previous GPA.
+
+Methods:
+Educational Data Mining classification techniques including Decision Trees (C4.5, ID3, CART, CHAID) and Naïve Bayes.
+10-fold cross validation was used to evaluate model performance.
+
+Results:
+The CART decision tree achieved the highest performance with about 40% accuracy, while Naïve Bayes achieved around 36% accuracy.
+
+Key Insight:
+Student academic performance is influenced not only by academic factors but also by social, demographic, and personal characteristics, and classification models can help identify patterns that support early academic intervention.
