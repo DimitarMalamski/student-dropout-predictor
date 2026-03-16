@@ -1,0 +1,12 @@
+Question regarding my stakeholder:
+1. Problem Validation:
+	* If a university could predict which students might drop out after the first semester, would that be useful?
+
+2. Success criteria:
+	* If such a model existed, what would be more important: identifying as many at-risk students as possible, or avoiding false alarms?
+
+3. Operational feasibility:
+	* If the model flagged 20% of students as “at risk”, would that be manageable?
+
+4. Feedback on the model output:
+	* Does it make sense that academic performance is the strongest predictor?
