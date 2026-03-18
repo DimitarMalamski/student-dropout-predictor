@@ -1,0 +1,12 @@
+Potential thinks to look at regarding ERD
+
+	1. Categorical Encoding
+	2. Feature Availability Timing
+	3. Target Leakage
+	4. Class Imbalance
+	5. Redundant Features
+	6. Macroeconomic Features
+	7. Proxy Bias
+	8. Preprocessed Dataset
+	9. Outliers / extreme values
+	10. Interpretability vs performance
