@@ -3,7 +3,7 @@ Potential thinks to look at regarding ERD
 	1. Categorical Encoding ( Done )
 	2. Feature Availability Timing ( Done )
 	3. Target Leakage ( Partically Done )
-	4. Class Imbalance
+	4. Class Imbalance ( Done )
 	5. Redundant Features
 	6. Macroeconomic Features
 	7. Proxy Bias ( Done )
