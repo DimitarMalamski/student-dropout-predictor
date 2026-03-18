@@ -4,7 +4,7 @@ Potential thinks to look at regarding ERD
 	2. Feature Availability Timing ( Done )
 	3. Target Leakage ( Partically Done )
 	4. Class Imbalance ( Done )
-	5. Redundant Features
+	5. Redundant Features ( Done )
 	6. Macroeconomic Features
 	7. Proxy Bias ( Done )
 	8. Preprocessed Dataset ( Partically Done )
