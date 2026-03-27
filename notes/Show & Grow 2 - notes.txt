@@ -1,0 +1,7 @@
+Domain understanding - What the problem is and how do we understand the target;
+Do not mix up 2 datasets, since we do not know where the data is coming from in the second one;
+Scaping by definition is noisy;
+Validate the technical work in the group challenge as well;
+Send a message, when you want a feedpulse to be graded;
+GitHub for manage and control;
+Should consider a change of the target variable;

@@ -1,0 +1,33 @@
+Sources of research, done for the Student Risk Identifier Model:
+
+1. Student Drop-out from German Higher Education Institutions 
+
+https://onlinelibrary.wiley.com/doi/full/10.1111/ejed.12097
+
+	- Dropout is a major higher education issue;
+	- It affects students, institutions, and society;
+	- Lower dropout rates are important for academic success and workforce supply;
+
+	- Dropout is not the same as changing programme or pausing studies;
+	- Clear definition is important because student mobility can be confused with dropout;
+	- Measuring dropout is difficult when later student paths are unknown;
+
+	- Dropout is usually multi-causal;
+	- It develops over time rather than happening suddenly;
+	- Different problems can accumulate until leaving studies seems unavoidable;
+
+	- Main dropout-related factors:
+		* performance-related difficulties;
+		* high academic demands;
+		* wrong study choice or wrong expectations;
+		* financial difficulties;
+
+2. European Commission — Ethics Guidelines for Trustworthy AI
+3. GDPR / EU data protection regulation
+
+-------
+
+Questions that still may raise concerns:
+	- What exactly counts as "early" ? ( Analytic Approach )
+	- What kind of intervention would realistically follow ? What happens after a student is flagged ? ( Stakeholder perspective )
+	- Is the main goal prediction, explanation, or support prioritization ?

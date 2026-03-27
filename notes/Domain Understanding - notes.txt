@@ -1,0 +1,10 @@
+keep it simple;
+reframe the working when it comes to the target variable;
+stakeholder is Nick;
+refer the data requirements back to the Domain Analysis;
+make a clear difference ;
+unclude the prompts that I have used;
+concrete on a target variable; 
+what must be in the dataset;
+check if it matches;
+stakeholder report;

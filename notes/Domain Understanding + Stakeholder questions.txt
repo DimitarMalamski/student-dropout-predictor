@@ -1,0 +1,28 @@
+What should be included in the Domain Understanding document:
+	- What the problem is ?
+	- Why the problem matters ?
+	- What factors influence the problem ?
+	- Why early prediction is useful ?
+	- Who the stakeholder is and how they will use the model ?
+	- Ethical considerations ?
+	- Implications of the dataset ?
+
+------------------
+
+Questions that I can ask the stakeholder ( Teacher )
+	- Does the project idea make sense ?
+	- Does the target variable make sense ? Should it be a binary classification problem or is it better to be a regression problem ?
+	- How do you image the model to be used in practice ?
+	- Does the idea seems realistic ?
+	- What factors/features should be taken into consideration
+	- Define Success Criteria ( What does a successful model look like in your perspective );
+
+------------------
+
+Questions that I can ask the stakeholder ( Student )
+	- Would you use this project idea in practice ?
+	- Would you find this prediction fair ?
+	- What concerns can you think of when it comes to this project, if it gets used in practice ?
+	- What kind of data would it be too personal to use in your opinion ?
+	- Do you think only the system should make such decisions or do you think it should be supervised by a teacher as well ( or a group vote for example ) ?
+	- Define Success Criteria ( What does a successful model look like in your perspective )
