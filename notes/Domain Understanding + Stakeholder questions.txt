@@ -24,5 +24,5 @@ Questions that I can ask the stakeholder ( Student )
 	- Would you find this prediction fair ?
 	- What concerns can you think of when it comes to this project, if it gets used in practice ?
 	- What kind of data would it be too personal to use in your opinion ?
-	- Do you think only the system should make such decisions or do you think it should be supervised by a teacher as well ( or a group vote for example ) ?
+	- Do you think only the system should make sucgh decisions or do you think it should be supervised by a teacher as well ( or a group vote for example ) ?
 	- Define Success Criteria ( What does a successful model look like in your perspective )
