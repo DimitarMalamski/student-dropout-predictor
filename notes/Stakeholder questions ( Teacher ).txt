@@ -1,0 +1,11 @@
+Questions to explore with the Stakeholder:
+	1. Do you think student dropout risk is an important problem in higher education?
+	2. Do you think a system like this could be useful in real life, or would it be hard to use in practice?
+	3. At what moment do you think this kind of prediction would be most useful: before the semester starts, after the first semester, or later? ( My current project is mostly focused on data after the first semester, but I would like to know what makes the most sense in practice. )
+	4. What kind of action could be taken if a student is marked as higher risk?
+	5. Do you think it is better for the output to be simple, like dropout/graduate, or as a percentage showing the risk level?
+	6. In your opinion, what would make this project successful?
+	7. Is it more important to find as many at-risk students as possible, even if some are marked by mistake, or should the model be more careful?
+	8. How do you think people should use their own judgment together with the model’s prediction?
+	9. Are there any student data fields that you think should not be used, even if they improve the model?
+	10. Is there anything important that you think is missing from the idea?
