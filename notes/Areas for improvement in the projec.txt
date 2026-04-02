@@ -1,0 +1,25 @@
+Areas for improvement in the project:
+
+1. Privacy and data governance
+which data types are acceptable to use
+which data types are too sensitive
+who should be allowed to see the results
+whether students themselves should see the output
+where such information should be stored or shown
+
+2. False positives and false negatives
+what happens if a struggling student is missed
+what happens if a successful student is wrongly flagged
+which type of error is more harmful in this context
+whether the threshold should change depending on how the output is used
+
+3. Explainability and understandable feedback
+how model output can be made understandable for a teacher
+what type of explanation is appropriate
+whether the explanation should show both risk-increasing and risk-reducing factors
+
+4. Human-centered use of the model
+who should interpret the model
+in what setting it should be used
+what kind of action should follow a flag
+when in the semester it is most useful

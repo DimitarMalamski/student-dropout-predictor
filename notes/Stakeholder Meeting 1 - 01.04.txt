@@ -10,3 +10,19 @@
 10. Could be useful in the Individual Sessions in the university.
 11. That could be problematic, since of insecurity. Discussion based on number. But it depends on the teacher
 12. Previous education, home situation, divorce is a bit factor, financial situation, reading less is also a factor, mental conditions ( it is not even legal ), are of growing up ( getos ), where parents studied too.
+
+
+------------------------------
+Prompt used
+1. Ye, this is mostly true. The system would be very useful if based only on grades, but other aspects like mental issues, finances and so on are important to take into consideration for better results, but this has privacy converns. That is why I should speak with a Privacy officer
+2. This is also true, earlier is better, but not most accurate, sicne in the begginin, for each stuudent, it is a bit vague what is going on in the university itself.
+3. The idea here was that For exmaple some courses are harder in a sense and they have a higher chanes of student failing, while others have the other effect, so I belive this should also be taken into consideration
+4. This was a discussion point, since this system would be very useful, since some students are having difficulties speaking up or telling about an issue, so this can make teachers take the initialtive.
+5. This is correct yeap
+6. Yess, for now we have the 3 different categories with %, but we need to see how we can integrate explanation/feedback for both Pros and Cons. For example, why a student it 70% failing and why is it 30% passing. This way the teacher can have an overall overview. Also, but this is for the future, we can make the model give solutions too, how we can lower this %
+7. This is also true yes.
+8. This is indeed all true. The student are not okay to see their results, since this can create insecurity, regarding thier personal self. This is also applied for incorrectly identifying passing student. If a student is doing good, but is marked as failing, this can make them insecure. That way I belive recall i becoming tricky in this situation, so we need to think about an alternative
+9. yeap, true
+10. yeap, indeed
+11. yeap
+12. indeed 
