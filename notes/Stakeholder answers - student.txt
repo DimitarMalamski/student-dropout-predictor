@@ -1,0 +1,8 @@
+1. It is a good idea. Most students would be okay with this idea, scared to ask help. Without the students having to do anything about it ?
+2. The students should not see the results ? 
+3. The prediction would be fare, since the teachers already have the data present. Less work for the coaches and more time for the students.
+4. As a Cybersecurity student, it depends how the model is made and how the data is prepared. If it is a tool only for the university. Hosted only iternally. If that is the case, then it is okay. But most students would not be okay. The idea and project is a double-edged sword. The results might not alight with how the student is seeing themselves. Ask the students themselves if they want to see the results. A nice idea in canvas about the model asking if the students be okay to see the results.
+5. The safest option is the student not be able to see the results. It removes the concern from the students.
+6. It should be only for your own coach
+7. Data that is not okay: Income of parents. It would be okay for the model to not ask more than what is already there in the university. If a student sees that more info is needed, it would create concerns. If a student is struggling financially, the teachers cannot realistically help. 
+8. A nice addition would be a quationer. For example, mental health, time management, focus. This questioner should be updated every semester. A student can also choose if they want to continue using the model after a semester.
