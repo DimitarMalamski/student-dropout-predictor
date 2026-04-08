@@ -1,0 +1,8 @@
+keep them in one document ( shorter );
+in the WHAT, we should not mention the dataset; Way to early to decide on the dataset that will be used;
+in the WHY, I should be explain why I choose personally to do this project;
+in the WHEN, I should list when the project will end and also iterations that I will use;
+It is best to be kept in the same document, since re will be excluded this;
+Include the prompt when creating the document ( in the documentation ). Explain the prompt and the way I use them in the documents;
+Always as short as possible when it comes to documentation;
+The length of the documents is related to the seriousness;
